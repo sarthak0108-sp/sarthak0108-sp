@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Sarthak Tiwari</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | DSA Enthusiast | Backend Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+Enthusiast;Java+Backend+Developer;Problem+Solver;Always+Learning&center=true&width=500&height=50">
+</p>
 # 💫 About Me:
 Passionate software developer focused on building scalable solutions and continuously improving my problem-solving skills. I enjoy learning new technologies and collaborating on impactful projects.
 
